@@ -27,7 +27,7 @@ const shubham = {
     name: "Shubham Kumar",
     role: "Full-Stack Developer",
     education: "B.Tech Computer Science",
-    location: "Bhopal, India",
+    location: "India",
     stack: ["MERN", "REST APIs", "MongoDB"],
     exploring: ["Generative AI", "LLMs", "RAG", "System Design"],
     currentFocus: "Building production-ready full-stack & AI-powered applications",
